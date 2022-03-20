@@ -26,4 +26,4 @@ void main() {
 }
 
 
-// Classes are exactly same as C++ (; termination is not used)
+// Classes are exactly same as C++ (; termination is not used) except some things like inheritance etc.(extends keyword is used)
